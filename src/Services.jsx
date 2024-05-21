@@ -69,7 +69,7 @@ const Services = () => {
     <br></br>
     <br/>
 
-    <h2 className="mt-5 text-center text-5xl text-pink-600 font-semibold whitespace-pre-line text-gray-900 dark:text-white">OUR DISHES AND SERVICES </h2>
+    <h2 className="mt-5 text-center text-4xl text-pink-600 font-semibold whitespace-pre-line text-gray-900 dark:text-white">OUR DISHES AND SERVICES </h2>
     
     
      <div className="mt-10 grid grid-cols-1 md:grid-cols-3 ">
@@ -94,7 +94,7 @@ const Services = () => {
             </div>
             ))}
             </div>
-            <p className="mt-5 text-center text-2xl text-pink-500 font-semibold whitespace-pre-line text-gray-900 dark:text-white" >To checkout all our services take a look at our instagram</p>
+            <p className="mt-5 text-center text-2xl text-pink-500 font-semibold whitespace-pre-line text-gray-900 dark:text-white" >To checkout all our services<br></br> take a look at our instagram</p>
             <div className='flex justify-center'>
             <button>
             <a href="https://www.instagram.com/soulful._.bites?igsh=ZWN1cHA3YXZ2bXFs">

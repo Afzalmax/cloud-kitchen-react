@@ -25,7 +25,7 @@ const Contact = () => {
     <>
     <br></br>
     <br></br>
-    <h2 className="text-center text-5xl text-pink-600 font-semibold whitespace-pre-line text-gray-900 dark:text-white">We are taking orders through whatsapp.Click on the link below to make an order.</h2>
+    <h2 className="text-center text-2xl text-pink-600 font-semibold whitespace-pre-line text-gray-900 dark:text-white">We are taking orders through whatsapp.Click on the link <br></br>below to make an order.</h2>
     <br></br>
     <br></br>
     <a href="https://wa.me/919500099956?text=YourMessage">

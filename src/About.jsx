@@ -16,7 +16,7 @@ const About = () => {
     </p>
   </div>
 </div>
-<h1 className="animate-slidein text-center text-pink-600 text-4xl font-bold text-gray-900 text-7xl dark:text-white ">FROM OUR OVEN TO YOUR KITCHEN</h1>
+<h1 className="animate-slidein text-center text-pink-600 text-3xl font-bold text-gray-900 text-7xl dark:text-white ">FROM OUR OVEN TO YOUR KITCHEN</h1>
 <div className="rounded overflow-hidden shadow-lg">
   <img style={{height:180, width:180}} src={logo} alt="River"/>
   <div className="px-6 py-4">
